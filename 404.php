@@ -1,0 +1,2 @@
+<?php defined( 'ABSPATH' ) || exit; get_header(); ?>
+<main id="main" class="container page-main error-page"><p class="eyebrow">404</p><h1><?php esc_html_e( 'Этот дроп куда-то исчез', 'prntlab' ); ?></h1><p><?php esc_html_e( 'Но в каталоге ещё много интересного.', 'prntlab' ); ?></p><a class="button" href="<?php echo esc_url( prntlab_shop_url() ); ?>"><?php esc_html_e( 'Перейти в магазин', 'prntlab' ); ?><?php echo prntlab_icon( 'arrow' ); ?></a></main><?php get_footer(); ?>
