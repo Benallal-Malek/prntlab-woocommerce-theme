@@ -1,0 +1,55 @@
+{
+  "home": {
+    "hero_eyebrow": "PRNTLAB®",
+    "hero_title": "Худи с дизайнерскими принтами",
+    "hero_description": "Авторские принты, премиальное качество и комфорт\nна каждый день. Выражай себя через стиль.",
+    "hero_button": "Смотреть коллекцию",
+    "hero_url": "",
+    "hero_alt": "Модель в светлом худи с принтом волны на фоне бетонной стены",
+    "products_title": "Популярные модели",
+    "drop_eyebrow": "Новая коллекция",
+    "drop_title": "WINTER DROP ’25",
+    "drop_description": "Атмосферные худи для холодного сезона.\nНовые принты, новые истории.",
+    "drop_button": "В коллекцию",
+    "drop_url": "",
+    "drop_alt": "Девушка в чёрном худи с принтом гор на фоне зимнего пейзажа",
+    "benefits_title": "Почему выбирают PRNTLAB",
+    "reviews_title": "Что говорят наши покупатели",
+    "reviews_note": "Демонстрационные отзывы — примеры оформления.",
+    "newsletter_title": "Будь в курсе новых дропов",
+    "newsletter_text": "Подпишись на рассылку и получай ранний доступ к коллекциям, спецпредложениям и закрытым дропам."
+  },
+  "media": [
+    {"key":"hero","file":"hero.webp","title":"PRNTLAB — городской кампейн","alt":"Модель в кремовом худи с волной на фоне городской стены"},
+    {"key":"hera","file":"hera.webp","title":"Hera Glitch Hoodie — вид спереди","alt":"Чёрное худи с античным бюстом и розовым мазком"},
+    {"key":"sakura","file":"sakura.webp","title":"Sakura Mountains Hoodie — вид спереди","alt":"Кремовое худи с сакурой, горами и красным солнцем"},
+    {"key":"space","file":"space.webp","title":"Space Drift Hoodie — вид спереди","alt":"Фиолетовое худи с принтом космонавта и планет"},
+    {"key":"butterfly","file":"butterfly.webp","title":"Butterfly Noir Hoodie — вид спереди","alt":"Чёрное худи с белым принтом бабочки"},
+    {"key":"winter","file":"winter.webp","title":"PRNTLAB — зимний кампейн","alt":"Девушка в чёрном худи на фоне снежных гор"},
+    {"key":"graphic","file":"graphic.webp","title":"Графические принты — фиолетовый арт","alt":"Оригинальная фиолетовая иллюстрация в стиле манга"}
+  ],
+  "collections": [
+    {"slug":"oversized","title":"Oversized","subtitle":"Свобода в движении","image":"hero.webp","media":"hero","description":"Свободный крой, мягкий хлопок и любимые принты."},
+    {"slug":"limited","title":"Лимитированные коллекции","subtitle":"Ограниченный тираж","image":"space.webp","media":"space","description":"Особенные принты для тех, кто выбирает свой путь."},
+    {"slug":"minimalism","title":"Минимализм","subtitle":"Чистый стиль","image":"winter.webp","media":"winter","description":"Чистые линии и спокойная палитра на каждый день."},
+    {"slug":"graphic","title":"Графические принты","subtitle":"Яркие идеи и арт","image":"graphic.webp","media":"graphic","description":"Искусство, которое можно носить."},
+    {"slug":"winter-drop","title":"Winter Drop ’25","subtitle":"Зимняя коллекция","image":"winter.webp","media":"winter","description":"Новые истории для холодного сезона."}
+  ],
+  "benefits": [
+    {"icon":"layers","title":"Премиальная ткань","text":"Мягкий, плотный и износостойкий футер: хлопок 80%, полиэстер 20%."},
+    {"icon":"image","title":"Уникальные принты","text":"Авторские дизайны от независимых художников и дизайнеров."},
+    {"icon":"truck","title":"Быстрая доставка","text":"По всей России от 2 дней. Отслеживание заказа онлайн."},
+    {"icon":"return","title":"Лёгкий возврат","text":"Можно вернуть или обменять в течение 14 дней."}
+  ],
+  "reviews": [
+    {"name":"Артём К.","initial":"АК","text":"Качество огонь! Ткань плотная, приятная, принт выглядит супер. Уже заказал ещё одну модель.","date":"12 января 2025"},
+    {"name":"Вика М.","initial":"ВМ","text":"Очень стильные дизайны, не как у всех. Худи оверсайз — сидит идеально, именно то, что искала!","date":"9 января 2025"},
+    {"name":"Даниил Р.","initial":"ДР","text":"Быстрая доставка, аккуратная упаковка и топовое качество. PRNTLAB — теперь мой любимый бренд!","date":"5 января 2025"}
+  ],
+  "products": [
+    {"slug":"hera-glitch-hoodie","sku":"PRNT-HERA","name":"Hera Glitch Hoodie","price":"5990","media":"hera","badge":"Хит","categories":["oversized","graphic"],"color":"Чёрный","short":"Классика встречается со стрит-артом. Античный бюст, дерзкий розовый акцент и свободный силуэт."},
+    {"slug":"sakura-mountains-hoodie","sku":"PRNT-SAKURA","name":"Sakura Mountains Hoodie","price":"5990","media":"sakura","badge":"Новинка","categories":["oversized","minimalism"],"color":"Молочный","short":"Спокойствие гор, цветущая сакура и красное солнце. Японская эстетика в мягком молочном цвете."},
+    {"slug":"space-drift-hoodie","sku":"PRNT-SPACE","name":"Space Drift Hoodie","price":"6490","media":"space","badge":"Лимитка","categories":["oversized","limited","winter-drop"],"color":"Фиолетовый","short":"Для тех, кто мыслит за пределами орбиты. Насыщенный фиолетовый и детальная космическая графика."},
+    {"slug":"butterfly-noir-hoodie","sku":"PRNT-BUTTERFLY","name":"Butterfly Noir Hoodie","price":"5990","media":"butterfly","badge":"Хит","categories":["oversized","graphic","winter-drop"],"color":"Чёрный","short":"Контрастный принт бабочки на глубоком чёрном. Выразительная графика и комфорт без компромиссов."}
+  ]
+}
